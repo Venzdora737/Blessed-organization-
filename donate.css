@@ -99,3 +99,7 @@ p.donate a {
   text-decoration: none;
   color:white;
 }
+p.p a{
+    text-decoration:none;
+    color:green
+}
